@@ -1,0 +1,11 @@
+Q3. Commands in Git?
+Ans. Create Repositories   # git init
+     Make Changes	   # git add
+    			   # git commit
+                           # git  status
+     Parallel Development  # git branch
+                           # git merge
+                           # git rebase
+     Sync Repositories     # git push
+                           # git pull
+                           # git add origin
